@@ -368,7 +368,7 @@ def menu():
 	respo = requests.get(f"https://mail.google.com")
 	der=respo.headers
 	print(der['Date'])
-	print(('—'*25)+'\n• DeCoDe By @H_S_W_M •\n'+('—'*25))
+	print(('—'*25)+'\n• DeCoDe By @prohoke •\n'+('—'*25))
 	print(f'''\033[2;35m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
